@@ -1,8 +1,6 @@
 # Slot Machine Game
 
-<p align="center">
-  <img src="slot_machine_demo.gif" alt="Slot Machine Demo" width="400">
-</p>
+![casino-gambling](https://github.com/ArvindeepSingh/Slot-Machine-Game/assets/147825061/3fe676f3-b19e-405e-8a52-62e1cf258916)
 
 ## Overview
 
