@@ -8,13 +8,13 @@ The Slot Machine Game is a Python-based project designed to provide an enjoyable
 
 ## Features
 
-- **Interactive Gameplay**: Players can enjoy an immersive gaming experience with easy-to-follow command-line prompts and colorful symbol displays.
+- **Interactive Gameplay**: Players can enjoy an immersive gaming experience with easy-to-follow command-line prompts.
 
 - **Bet on Multiple Lines**: Choose to bet on up to 3 lines, increasing the chances of winning big.
 
 - **Customizable Bets**: Set your bet amount within a predefined range to control your risk and rewards.
 
-- **Randomized Slot Spins**: Each spin generates a random arrangement of symbols, adding an element of surprise to every game.
+- **Randomized Slot Spins**: Each spin generates a random arrangement of symbols.
 
 - **Winnings Tracking**: The game calculates your winnings and displays the results, helping you keep track of your performance.
 
